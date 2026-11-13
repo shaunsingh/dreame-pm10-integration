@@ -1,12 +1,12 @@
 {
   "domain": "dreame_airpurifier",
   "name": "AirPursue PM10 Air Purifier",
-  "codeowners": ["@codycyr"],
+  "codeowners": ["@shaunsingh"],
   "config_flow": true,
   "dependencies": [],
-  "documentation": "https://github.com/codycyr/dreame-airpurifier",
+  "documentation": "https://github.com/shaunsingh/dreame-pm10-integration/",
   "iot_class": "cloud_polling",
-  "issue_tracker": "https://github.com/codycyr/dreame-airpurifier/issues",
+  "issue_tracker": "https://github.com/shaunsingh/dreame-pm10-integration/issues",
   "requirements": [],
   "version": "1.1.0"
 }
